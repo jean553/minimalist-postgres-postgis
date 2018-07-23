@@ -1,8 +1,18 @@
 # docker-min-postgres-postgis
 
-A very minimalist Docker image with PostgreSQL 10.4 and Postgisi 2.4.4.
+A very minimalist Docker image with PostgreSQL 10.4 and PostGIS 2.4.4.
 
-Build based on PostgreSQL official images (https://hub.docker.com/\_/postgres/).
+Build based on PostgreSQL [official images](https://hub.docker.com/_/postgres/).
+
+## Build the image
+
+```sh
+docker build -t postgis .
+```
+
+## Usage
+
+Should be used for development purposes only.
 
 ## Credits
 
