@@ -14,6 +14,12 @@ docker build -t postgis .
 
 Should be used for development purposes only.
 
+Use it with Vagrant:
+
+```
+d.image = "jean553/minimalist-postgres-postgis"
+```
+
 ## Credits
 
 Mainly based on examples from the project https://github.com/appropriate/docker-postgis,
