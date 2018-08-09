@@ -1,3 +1,6 @@
+[![Docker Automated build](https://img.shields.io/docker/automated/jean553/minimalist-postgres-postgis.svg)]()
+[![Docker Build Status](https://img.shields.io/docker/build/jean553/minimalist-postgres-postgis.svg)]()
+
 # docker-min-postgres-postgis
 
 A very minimalist Docker image with PostgreSQL 10.4 and PostGIS 2.4.4.
